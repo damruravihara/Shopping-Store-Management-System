@@ -1,0 +1,40 @@
+.layout{
+	overflow:hidden;
+	background-color: white;
+	height: 55px;
+}
+
+.layout a{
+	display:block;
+	float:left;
+	color:black;
+	text-align:center;
+	padding:17px;
+	font-size:15px;
+	text-decoration:none;
+	
+}
+
+.layout a.logo {
+
+	
+	margin-top:-80px;
+}
+
+.head a:hover{
+	background-color:black;
+	color:white;
+}
+
+.layout .search{
+	float:right;
+}
+
+.layout input[type=text]{
+	padding:13px;
+	margin-top:1px;
+	font-size:15px;
+	border:none;
+	width:250px;
+}
+

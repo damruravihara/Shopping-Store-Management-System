@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+body {
+  background-image: url('userbackground.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#button1 {
+  width: 40%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+   margin: 8px 300px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#button1:hover {
+  background-color: white;
+  padding: 12px 18px;
+  border: 2px solid #4CAF50;
+  color: black;
+}
+div {
+  border-radius: 5px;
+  padding: 20px;
+  width: 382px;  
+  overflow: hidden;  
+  margin: auto; 
+  margin: 20 0 0 450px;  
+  padding: 80px;
+  background-color: white;
+  
+}
