@@ -8,4 +8,14 @@ Shopping Store Management System using OOP Java Servlet, SQL, CSS &amp; HTML
 * Seller View Profile
 * Seller Update/Delete Profile
 
+### Used Technologies
+* Java Servlet
+* SQL
+* CSS
+* HTML
 
+### Used Tools
+* Eclipse
+* Apache Tomcat
+* Java JDK 8
+* MySQL
